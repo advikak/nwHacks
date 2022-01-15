@@ -17,3 +17,14 @@ body{
     color: white;
     font-size: 20px;
   }
+
+  .btn {
+    position: absolute;
+    top: 120px;
+    left: 200px;
+    height: 50px;
+    width: 150px;
+    border: none;
+      color: black;
+      background-color: rgb(43, 157, 233);
+  }
